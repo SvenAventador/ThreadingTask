@@ -1,0 +1,15 @@
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\bin\Debug\net6.0\ThreadingTask.exe
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\bin\Debug\net6.0\ThreadingTask.deps.json
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\bin\Debug\net6.0\ThreadingTask.runtimeconfig.json
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\bin\Debug\net6.0\ThreadingTask.dll
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\bin\Debug\net6.0\ThreadingTask.pdb
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.csproj.AssemblyReference.cache
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.AssemblyInfoInputs.cache
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.AssemblyInfo.cs
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.csproj.CoreCompileInputs.cache
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.dll
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\refint\ThreadingTask.dll
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.pdb
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ThreadingTask.genruntimeconfig.cache
+C:\Users\sasas\Desktop\ThreadingTask\ThreadingTask\ThreadingTask\obj\Debug\net6.0\ref\ThreadingTask.dll
